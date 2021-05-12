@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+             #subtitulos{
+                 background-color:rgb(130, 122, 245);
+             }
+            .pup{
+                color:rgb(21, 16, 173);
+            }
+            h4 {
+                color:rgb(9, 63, 122);
+            }
+        </style>
+    </head>
+    <body>
+    
+        <h1 id="subtitulos">VIAJAR A COREA</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Taipei_Skyline_2015.jpg" alt="ciudad del centro de corea del sur" width="489">
+        <p><em><strong>Ciudad del centro de Corea del Sur</strong></em></p>
+        
+        <h2 id="subtitulos">¿Por que ir? </h2>
+        <ol>
+            <li>Cultura y costumbres ancestrales</li>
+            <li>Ciudades modernas y cosmopolitas</li>
+            <li>Tecnología</li>
+            <li>Naturaleza</li>
+            <li>La Gastronomía</li>
+        </ol>
+        
+        <h2 id="subtitulos">Encontar el amor</h2>
+        <p>Los coreanos, antes de ser coreanos, son hombres y como todo hombre les gusta un buen cuerpo. Ellos están muy acostumbrados a sus mujeres pequeñas, delgadas y planas en general, así que cuando va una latina es como algo exótico</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Lee_Jong-suk_March_2018.png/1200px-Lee_Jong-suk_March_2018.png" alt="Un asiatico famoso Lee Jong-suk" width="200">
+        
+        <h2 id="subtitulos">Musica</h2>
+        <p><strong class="pup">El 'K-pop' es un género de música coreana </strong> que está influenciado por el pop, el jazz, el hip-hop, el reggae y la electrónica, entre otros. <br><br>
+        Surgió a principios de los años 90 y desde ese momento <strong class="pup">ha tenido un crecimiento exponencial</strong>, creando un movimiento cultural seguido por millones de fans alrededor del mundo. Actualmente, <strong class="pup">este estilo de música se ha coronado como el más escuchado en YouTube </strong> en lo que va del 2020.<br><br>
+            Existen diferentes grupos de 'K-pop' que han marcado tendencias en todo el mundo. <strong class="pup">Su estilo de música, moda, coreografía o cosmética son unas de las características que hacen de estos grupos un fenómeno distinto, innovador y revolucionario. </strong> 
+        </p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/BTS_on_the_Billboard_Music_Awards_red_carpet%2C_1_May_2019.jpg"alt="La banda mas conocida como BTS" width="472">
+        
+        <h2 id="subtitulos">Moda</h2>
+        <p>La <strong class="pup">moda coreana se distingue por las prendas holgadas</strong>, que les da más libertad a las personas de moverse y sentirse más frescas durante su día</p>
+        <h4> Mujeres</h4>
+        <ul> 
+            <li>Los coreanos suelen tener baja estatura y son más delgados y, por ello, no suelen llevar ropa ancha</li>
+            <li>Prefieren las piezas más ajustadas al cuerpo. Les gusta un estilo más casual, el Dandy Casual, que se caracteriza por sus abrigos, chaquetas, jerséis y zapatos estilo Oxford</li>
+        </ul>
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/191114_%EB%A7%88%EB%A7%88%EB%AC%B4_%EA%B8%B0%EC%9E%90_%EC%A7%88%EC%9D%98%EC%9D%91%EB%8B%B5_%EC%A0%84%EC%B2%B4%EC%98%81%EC%83%81_%28MAMAMOO_%27reality_in_BLACK%27_%EC%87%BC%EC%BC%80%EC%9D%B4%EC%8A%A4%29_3m_15s.jpg/640px-191114_%EB%A7%88%EB%A7%88%EB%AC%B4_%EA%B8%B0%EC%9E%90_%EC%A7%88%EC%9D%98%EC%9D%91%EB%8B%B5_%EC%A0%84%EC%B2%B4%EC%98%81%EC%83%81_%28MAMAMOO_%27reality_in_BLACK%27_%EC%87%BC%EC%BC%80%EC%9D%B4%EC%8A%A4%29_3m_15s.jpg" alt="El grupo popular mamamoo" width="450">
+        
+        <h4> Hombres</h4>
+        <ul>
+            <li>En corea los chicos suelen llevar en la parte de abajo pantalones</li>
+            <li>En la parte de arriba busos camisetas y camisas de manga larga</li>
+            <li>Los pantalones se usan lo mas simple que se pueda colores como gris negro o azul los cuales son colores típicos de un tela de Jean. Se usan mucho con rotos.</li>
+        </ul>
+        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/BTS_during_a_photoshoot_for_Korea_Dispatch_in_Las_Vegas%2C_May_2019_08.jpg" alt="Un grupo de chicos" width="450">
+    </body>
+</html>
